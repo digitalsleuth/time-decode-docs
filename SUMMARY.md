@@ -12,6 +12,4 @@
 ## USAGE
 
 * [Basic Usage / Options](usage/basic-usage-options.md)
-* [Converting from a Timestamp](usage/converting-from-a-timestamp.md)
-* [Converting to a Timestamp](usage/converting-to-a-timestamp.md)
 * [References](usage/references.md)
